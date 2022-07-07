@@ -36,13 +36,12 @@ This npm package seeds the database with npm run seeds
 * [GhiasFarah](https://github.com/GhiasFarah)
 
 ## Screenshot
-![Screenshot1](https://raw.githubusercontent.com/katyajuliet/travel-advice-express/main/public/image/travel-story-1.png "Screenshot 1")
-![Screenshot2](https://raw.githubusercontent.com/katyajuliet/travel-advice-express/main/public/image/travel-story-2.png "Screenshot 2")
-![Screenshot3](https://github.com/katyajuliet/travel-advice-express/blob/main/public/image/travel-story-3.png)
-<br>
-![image](https://github.com/katyajuliet/travel-advice-express/blob/main/public/image/travel-story-4.png)
-![image](https://github.com/katyajuliet/travel-advice-express/blob/main/public/image/travel-story-5.png)
-![image](https://github.com/katyajuliet/travel-advice-express/blob/main/public/image/travel-story-6.png)
+![Screenshot1](https://raw.githubusercontent.com/GhiasFarah/travel-advice-express/main/public/image/travel-story-1.png "Screenshot 1")
+![Screenshot2](https://raw.githubusercontent.com/GhiasFarah/travel-advice-express/main/public/image/travel-story-2.png "Screenshot 2")
+![Screenshot3](https://raw.githubusercontent.com/GhiasFarah/travel-advice-express/main/public/image/travel-story-3.png "Screenshot 3")
+![Screenshot4](https://raw.githubusercontent.com/GhiasFarah/travel-advice-express/main/public/image/travel-story-4.png "Screenshot 4")
+![Screenshot5](https://raw.githubusercontent.com/GhiasFarah/travel-advice-express/main/public/image/travel-story-5.png "Screenshot 5")
+![Screenshot6](https://raw.githubusercontent.com/GhiasFarah/travel-advice-express/main/public/image/travel-story-6.png "Screenshot 6")
 
 ## License
 MIT License
