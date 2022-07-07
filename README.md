@@ -46,7 +46,7 @@ This npm package seeds the database with npm run seeds
 ## License
 MIT License
 
-Copyright (c) 2022 Katya Juliet Lerner
+Copyright (c) 2022 Ghias Farah
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
