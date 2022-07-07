@@ -36,7 +36,7 @@ This npm package seeds the database with npm run seeds
 * [GhiasFarah](https://github.com/GhiasFarah)
 
 ## Screenshot
-![image](https://github.com/katyajuliet/travel-advice-express/blob/main/public/image/travel-story-1.png)
+![image](https://raw.githubusercontent.com/katyajuliet/travel-advice-express/main/public/image/travel-story-1.png)
 <br>
 ![image](https://raw.githubusercontent.com/katyajuliet/travel-advice-express/main/public/image/travel-story-2.png)
 ![image](https://github.com/katyajuliet/travel-advice-express/blob/main/public/image/travel-story-3.png)
